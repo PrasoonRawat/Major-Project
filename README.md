@@ -1,6 +1,6 @@
 # Major-Project
 ## Brief
-MediConnect is an innovative patient information management system that leverages the power of QR codes and digital dashboards to streamline healthcare processes. By reducing reliance on paper records, MedScan enhances the efficiency, security, and accessibility of medical information.
+MediConnect is an innovative patient information management system that leverages the power of QR codes and digital dashboards to streamline healthcare processes. By reducing reliance on paper records, MedConnect enhances the efficiency, security, and accessibility of medical information.
 
 Key Features:
 
